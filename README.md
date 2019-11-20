@@ -8,9 +8,6 @@ Just click on [active-box](https://innawebdev.offyoucode.co.uk/active-box/)!
 
 ## Built With
 <ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JQuery</li>
+    <li>HTML</li>
+    <li>CSS</li>
 </ul>
-
-#### Thank you! 
