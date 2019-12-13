@@ -4,7 +4,7 @@ This is a single-page HTML/CSS responsive web application template. It was crea
 
 ## Where to find it?
 
-Just click on [active-box](https://innawebdev.offyoucode.co.uk/active-box/){:target="_blank"}! 
+Just click on [active-box](https://innawebdev.offyoucode.co.uk/active-box/?target=_blank)! 
 
 ## Built With
 <ul>
